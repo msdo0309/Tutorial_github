@@ -1,3 +1,4 @@
 monkey can understand git
 something changed
 commit index status recorded
+pull grab content from remote storage
